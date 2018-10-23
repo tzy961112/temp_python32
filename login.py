@@ -1,8 +1,11 @@
 a = 1
-# sfhsfsfsfdsfhsfadhfss
+
 def index():
 	return 'hello world'
 
 
 def hello():
 	return 'helo'
+
+def detail():
+	return '112'
