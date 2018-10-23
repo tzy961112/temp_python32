@@ -7,5 +7,9 @@ def index():
 def hello():
 	return 'helo'
 
+
 def detail():
 	return '112'
+
+c = 3
+
